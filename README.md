@@ -25,6 +25,11 @@ The core systems developed within this project and my main areas of responsibili
 
 ---
 
+# Screenshots
+<img width="2160" height="1440" alt="Ekran görüntüsü 2025-11-21 204419" src="https://github.com/user-attachments/assets/380b1cc4-62e6-49f3-a613-70fdf4830abc" />
+
+---
+
 ## 📜 License
 
 This project is released under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for more details.
